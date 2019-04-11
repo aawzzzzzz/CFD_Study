@@ -1,3 +1,4 @@
+!explicitly finite difference
 program main
   implicit none
   real, dimension(0:20000,0:20000)::theta
