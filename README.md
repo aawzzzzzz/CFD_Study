@@ -1,4 +1,4 @@
 # CFD_Study
-homework code of my CFD courses in sustech
+homework Fortran code of my CFD courses in SUSTech
 
 thanks my teacher Lp.WANG
