@@ -1,3 +1,3 @@
-#advection equation 
+# advection equation 
 
 numerical solution for advection equation 
