@@ -1,4 +1,4 @@
-# CFD_Study
-homework Fortran code of my CFD courses in SUSTech
+## CFD Study
+Fortran code of my CFD homework in SUSTech
 
-thanks my teacher Lp.WANG
+Thanks my teacher Lianping.WANG
