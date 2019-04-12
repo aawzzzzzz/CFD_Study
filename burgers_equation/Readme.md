@@ -1,2 +1,2 @@
-# numerical solution of second order burgers equation
+## Numerical solution of second order burgers equation
 
